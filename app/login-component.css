@@ -1,0 +1,10 @@
+#UserForm{
+    width: 350px;
+    height: 280px;
+    position: absolute;
+    margin: auto;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+}

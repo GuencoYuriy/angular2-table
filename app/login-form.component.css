@@ -1,0 +1,9 @@
+#Message{
+     position: absolute;
+     bottom: 20px;
+     padding: 5px;
+     background-color: #faebcc;
+     border-radius: 5px;
+     box-shadow: 5px 5px 5px gray;
+     font-size: small;
+}
